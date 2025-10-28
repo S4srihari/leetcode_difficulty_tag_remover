@@ -17,6 +17,9 @@ For those who do not know: Leetcode is a popular website for practicing coding p
 How To Install this Extension?
 
 It is very easy to use. Detailed installation:
+
 1st STEP: You can either clone this repo / download it as a Zip file and extract it.
+
 2nd STEP: Open the Chrome browser. Select the Manage Extensions and select Load Unpacked.
+
 3rd STEP: Find the folder you cloned/extracted and select it. That's it. You are ready to grind Leetcode way better.
