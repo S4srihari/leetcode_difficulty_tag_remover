@@ -1,6 +1,6 @@
 # leetcode-difficulty-tag-remover-extension
 
-Are you feeling demotivated to see *HARD* tag while grinding Leetcode?
+Are you feeling hesitated to see *HARD* tag while grinding Leetcode?
 
 Are you feeling not excited to solve *EASY* tagged problems in LC?
 
