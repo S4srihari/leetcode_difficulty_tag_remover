@@ -1,6 +1,6 @@
 const hideDifficultyTag = () => {
     const difficultyTags = document.evaluate(
-      "//*[contains(text(), 'Easy') or contains(text(), 'Medium') or contains(text(), 'Hard')]",
+      "//*[contains(text(), 'Easy') or contains(text(), 'Medium') or contains(text(), 'Med') or contains(text(), 'Hard')]",
       document,
       null,
       XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,
