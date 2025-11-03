@@ -16,8 +16,10 @@ For those who do not know: Leetcode is a popular website for practicing coding p
 
 How To Install this Extension:
 
-1st STEP: You fork and clone this repo into your local machine.
+1st STEP: Fork and Clone this repo into your local machine.
 
 2nd STEP: Open the Chrome browser. Select the Manage Extensions from Extensions, Turn on Developer mode, and select Load Unpacked.
 
 3rd STEP: Find the folder you cloned and select it. That's it. You are ready to grind Leetcode way better.
+
+Don't forget to give it a star.
